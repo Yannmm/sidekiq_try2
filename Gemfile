@@ -65,3 +65,12 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "sidekiq", "~> 7.3"
+
+gem "devise", "~> 4.9"
+
+
+gem "ruby-lsp", "~> 0.17.9"
+
+gem "rubocop"
